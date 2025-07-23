@@ -8,9 +8,29 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1518055496150997785, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
+      propertyPath: m_Size.x
+      value: 18
+      objectReference: {fileID: 0}
+    - target: {fileID: 1518055496150997785, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
+      propertyPath: m_Size.y
+      value: 7.76
+      objectReference: {fileID: 0}
+    - target: {fileID: 1518055496150997785, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
+      propertyPath: m_Size.z
+      value: 21.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 1518055496150997785, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
+      propertyPath: m_Center.y
+      value: 2.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 1518055496150997785, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
+      propertyPath: m_Center.z
+      value: 0.9
+      objectReference: {fileID: 0}
     - target: {fileID: 4486764641050520366, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 24.270008
+      value: 25.8
       objectReference: {fileID: 0}
     - target: {fileID: 4486764641050520366, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
       propertyPath: m_LocalPosition.y
@@ -18,7 +38,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4486764641050520366, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.1750183
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4486764641050520366, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
       propertyPath: m_LocalRotation.w
