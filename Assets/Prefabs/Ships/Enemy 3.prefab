@@ -37,20 +37,32 @@ PrefabInstance:
       value: -1.34
       objectReference: {fileID: 0}
     - target: {fileID: 4486764641050520366, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.8784628
+      objectReference: {fileID: 0}
+    - target: {fileID: 4486764641050520366, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.8784627
+      objectReference: {fileID: 0}
+    - target: {fileID: 4486764641050520366, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.8784628
+      objectReference: {fileID: 0}
+    - target: {fileID: 4486764641050520366, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 82.7
+      value: 141.6
       objectReference: {fileID: 0}
     - target: {fileID: 4486764641050520366, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 41.3
       objectReference: {fileID: 0}
     - target: {fileID: 4486764641050520366, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 273.5
       objectReference: {fileID: 0}
     - target: {fileID: 4486764641050520366, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.3162468
       objectReference: {fileID: 0}
     - target: {fileID: 4486764641050520366, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
       propertyPath: m_LocalRotation.x
@@ -58,7 +70,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4486764641050520366, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: 0.948677
       objectReference: {fileID: 0}
     - target: {fileID: 4486764641050520366, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
       propertyPath: m_LocalRotation.z
@@ -70,7 +82,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4486764641050520366, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 143.128
       objectReference: {fileID: 0}
     - target: {fileID: 4486764641050520366, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -87,13 +99,43 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 2916336513189627130, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
       insertIndex: -1
       addedObject: {fileID: 6458611833804801920}
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7516876823011379207, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8061311501755873820}
   m_SourcePrefab: {fileID: 100100000, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
 --- !u!4 &946943715500324506 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2916336513189627130, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
   m_PrefabInstance: {fileID: 2692256276322464352}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &5552269241642777191 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7516876823011379207, guid: d08035590c124c047aeb43b21cfc7b8b, type: 3}
+  m_PrefabInstance: {fileID: 2692256276322464352}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &8061311501755873820
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5552269241642777191}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1001 &6785552736213311595
 PrefabInstance:
   m_ObjectHideFlags: 0
