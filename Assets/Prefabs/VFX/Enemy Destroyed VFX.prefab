@@ -50,7 +50,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5712564250154640067, guid: 98e6d21070fb5d74f8864a2f79ac2846, type: 3}
       propertyPath: m_Name
-      value: Base Destroyed VFX
+      value: Enemy Destroyed VFX
+      objectReference: {fileID: 0}
+    - target: {fileID: 7151151764299701818, guid: 98e6d21070fb5d74f8864a2f79ac2846, type: 3}
+      propertyPath: looping
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7151151764299701818, guid: 98e6d21070fb5d74f8864a2f79ac2846, type: 3}
+      propertyPath: InitialModule.startLifetime.scalar
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7151151764299701818, guid: 98e6d21070fb5d74f8864a2f79ac2846, type: 3}
+      propertyPath: InitialModule.startLifetime.minScalar
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
